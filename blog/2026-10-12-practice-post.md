@@ -1,11 +1,11 @@
-   ---
+---
    title: "Why Free Access to Court Records Matters"
    author: "Nadia Hicks"
    date: 2026-10-12
    tags:
      - access to justice
      - open data
-   ---
+---
 
    ## Opening the courthouse doors
 
